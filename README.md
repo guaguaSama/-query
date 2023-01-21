@@ -17,3 +17,4 @@ https://chengyu.duwenz.com/manage/javaajax_cy.aspx
 
 此脚本仅供学习交流使用 严谨商用
 
+已上传bili：https://www.bilibili.com/read/cv21341050
